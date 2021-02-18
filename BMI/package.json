@@ -1,0 +1,12 @@
+{
+  "name": "bmi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bmical.js",
+  "scripts": {
+    "start": "node bmical.js",
+    "server": "nodemon bmical.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
